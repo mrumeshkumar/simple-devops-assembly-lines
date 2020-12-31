@@ -20,4 +20,5 @@ Adding line-2 in dev branch
 
 ++++++++++++++++++++++++++++++
 Adding line-1 in Master branch
+Adding line-2 in Master branch
 
